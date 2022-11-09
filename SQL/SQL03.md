@@ -1,11 +1,11 @@
 # **DBMS의 설치와 SQL 이해 (3)**
 ### 학습 목표
-> Database와 Schema 를 이해 할 수 있다.  
-> Schema 와 Table을 알 수 있다.  
-> SQL 언어의 구조를 설명할 수 있다.  
+* Database와 Schema 를 이해 할 수 있다.  
+* Schema 와 Table을 알 수 있다.  
+* SQL 언어의 구조를 설명할 수 있다.  
 ### 학습 목차
-> DB와 Schema  
-> SQL 언어  
+* DB와 Schema  
+* SQL 언어  
 ***
 ## 01. DB와 Schema
 ### Schema
